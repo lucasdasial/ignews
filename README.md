@@ -9,23 +9,6 @@
   <br>
   <br>
 
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/khalleb/ignews"/>
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
-  </a>
-
-  <a href="https://www.linkedin.com/in/khalleb/">
-    <img alt="Made by Khalleb" src="https://img.shields.io/badge/made%20by-khalleb-%237519C1">
-  </a>
-
-  <a href="https://github.com/khalleb/ignews/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/khalleb/ignews">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/github/license/khalleb/ignews">
-</p>
-
 ---
 
 <p align="center">
@@ -38,7 +21,7 @@
 
 <br>
 
-## :dart: Sobre ##
+## :dart: Sobre
 
 O projeto ig.news é um blog onde os usuários podem ter acesso ao conteúdo de cada postagem de acordo com o status de sua assinatura.<br>
 O blog possui um sistema de compra integrado com o STRIPE, e após o usuário realizar o pagamento, sua inscrição estará ativa e pronta para visualizar o conteúdo completo
@@ -50,8 +33,7 @@ Essa é uma aplicação Serverless, ou seja, todo o processo que dependeria de u
 <br>
 As postagens são feitas pelo painel do Prismic CMS e integradas diretamente pelo front.
 
-
-## :rocket: Tecnologias ##
+## :rocket: Tecnologias
 
 As seguintes tecnologias foram utilizadas no projeto:
 
@@ -60,12 +42,12 @@ As seguintes tecnologias foram utilizadas no projeto:
 - [Stripe](https://stripe.com/)
 - [FaunaDB](https://fauna.com/)
 
-## :white_check_mark: Requerimentos ##
+## :white_check_mark: Requerimentos
 
 - [Node](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/lang/en/)
 
-## :checkered_flag: Começando ##
+## :checkered_flag: Começando
 
 ```bash
 # Clone this project
@@ -82,7 +64,8 @@ $ yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
-## :framed_picture: Imagens ##
+
+## :framed_picture: Imagens
 
 <h1 align="center">
     <img alt = "Web app" src = "./.github/image-01.png" width = "500px" />
@@ -90,6 +73,3 @@ $ yarn dev
     <img alt = "Web app" src = "./.github/image-03.png" width = "500px" />
     <img alt = "Web app" src = "./.github/image-04.png" width = "500px" />
 </h1>
-
-
-
